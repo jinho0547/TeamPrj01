@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean class="com.sist.model.MainModel" />
+	<bean class="com.sist.model.MovieModel" />
+	<bean class="com.sist.model.MemberModel" />
+	<bean class="com.sist.model.FindModel" />
+	<bean class="com.sist.model.MypageModel" />
+	<bean class="com.sist.model.ReserveModel" />
+	<bean class="com.sist.model.MyInfoModel" />
+	<bean class="com.sist.model.JjimModel" />
+	<bean class="com.sist.model.MyInfoChangeModel" />
+	<bean class="com.sist.model.FoodModel" />
+	
+</beans>
